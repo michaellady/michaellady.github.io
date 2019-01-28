@@ -3,9 +3,8 @@ layout: post
 title: The MOST Important Resource
 author: Mike Lady
 categories: dev
+cover: /assets/pocketwatch.jpg
 ---
-
-![alt text](../pocketwatch.jpg "Not my year, but my alma mater")
 
 ## What is your MOST important, non-renewable resource? 
 

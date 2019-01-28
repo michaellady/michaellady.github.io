@@ -3,9 +3,8 @@ layout: post
 title: The Importance of Mentorship
 author: Mike Lady
 categories: dev
+cover: /assets/cement-mixer.png
 ---
-
-![alt text](../cement-mixer.png "Brian's Hands")
 
 Hey all,
 

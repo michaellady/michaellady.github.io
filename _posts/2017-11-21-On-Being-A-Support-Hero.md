@@ -3,9 +3,8 @@ layout: post
 title: On Being a "Support Hero"
 author: Mike Lady
 categories: dev
+cover: /assets/dons_o_line.jpg
 ---
-
-![alt text](../dons_o_line.jpg "Not my year, but my alma mater")
 
 I enjoy having conversations with my [brother](https://www.instagram.com/ladyistheman/) about two of his main passions in life: basketball and [League of Legends](https://en.wikipedia.org/wiki/League_of_Legends). I love seeing him light up when he explains the latest League of Legends news or breaks down a basketball play. He has incredible domain expertise since he has played at a relative high level in each. [He started](https://www.youtube.com/watch?v=E6fijiuQDx0) [(1)](#1) on the varsity basketball team in High School in both his junior and senior years, and at his peak, he achieved Diamond I ranking (0.06% of players hold this rank at any one time) in League of Legends.
 
