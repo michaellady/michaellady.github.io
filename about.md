@@ -8,7 +8,7 @@ I mentally and physically grapple with technology and people, respectively (for 
 
 I feel that these two aspects (mental and physical exertion) of my life are what keep me a balanced, productive, and happy human.
 
-For the beginning part of my professional life, I have been a seeker, listener, and consumer of information, as one would expect for a novice professional. As I continue to develop my craft, I feel that I know enough now (still not a lot) to help those who are just starting out like I was a short few years ago with this <a href="/">blog</a>.
+For the beginning part of my professional life, I have been a seeker, listener, and consumer of information, as one would expect for a novice professional. As I continue to develop my craft, I feel that I know enough now (almost 5 years in, still not a lot) to help those who are just starting out by recording my thoughts in my <a href="/posts">blog posts</a>, podcast, and youtube channel.
 
 I like writing mostly because it helps me crystallize my thoughts to a very precise degree that is usually not practical in conversation. My process involves thinking about an idea to write, writing it, and then going back to rephrase, qualify, and clarify those thoughts ad nauseum. 
 
