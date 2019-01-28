@@ -4,14 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+I mentally and physically grapple with technology and people, respectively (for the most part). My primary disciplines of "grappling" are DevOps and <a href="https://www.youtube.com/watch?v=45gXGYZ7TQU">Brazilian Jiu-Jitsu</a>.
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+I feel that these two aspects (mental and physical exertion) of my life are what keep me a balanced, productive, and happy human.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+For the beginning part of my professional life, I have been a seeker, listener, and consumer of information, as one would expect for a novice professional. As I continue to develop my craft, I feel that I know enough now (still not a lot) to help those who are just starting out like I was a short few years ago with this <a href="/">blog</a>.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I like writing mostly because it helps me crystallize my thoughts to a very precise degree that is usually not practical in conversation. My process involves thinking about an idea to write, writing it, and then going back to rephrase, qualify, and clarify those thoughts ad nauseum. 
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+This process is enjoyable to me because I have enough time to think about exactly what I want to say and mean. It is similar to writing, debugging, and testing code in process and in spirit; the satisfaction of creating something from "nothing" and making it work.

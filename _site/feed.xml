@@ -1,210 +1,263 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Centrarium</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
+    <title>Mike Lady's Personal Site</title>
+    <description>I grapple with humans and code. Striving to be the hero of my own story and sharing what I learn along the way.
 </description>
-    <link>http://bencentra.github.io/centrarium/</link>
-    <atom:link href="http://bencentra.github.io/centrarium/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Jan 2019 20:50:53 -0800</pubDate>
-    <lastBuildDate>Sun, 27 Jan 2019 20:50:53 -0800</lastBuildDate>
+    <link>https://michaellady.github.io//</link>
+    <atom:link href="https://michaellady.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Jan 2019 22:56:27 -0800</pubDate>
+    <lastBuildDate>Sun, 27 Jan 2019 22:56:27 -0800</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>On Being a &quot;Support Hero&quot;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../dons_o_line.jpg&quot; alt=&quot;alt text&quot; title=&quot;Not my year, but my alma mater&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;adding-new-posts&quot;&gt;Adding New Posts&lt;/h2&gt;
+&lt;p&gt;I enjoy having conversations with my &lt;a href=&quot;https://www.instagram.com/ladyistheman/&quot;&gt;brother&lt;/a&gt; about two of his main passions in life: basketball and &lt;a href=&quot;https://en.wikipedia.org/wiki/League_of_Legends&quot;&gt;League of Legends&lt;/a&gt;. I love seeing him light up when he explains the latest League of Legends news or breaks down a basketball play. He has incredible domain expertise since he has played at a relative high level in each. &lt;a href=&quot;https://www.youtube.com/watch?v=E6fijiuQDx0&quot;&gt;He started&lt;/a&gt; &lt;a href=&quot;#1&quot;&gt;(1)&lt;/a&gt; on the varsity basketball team in High School in both his junior and senior years, and at his peak, he achieved Diamond I ranking (0.06% of players hold this rank at any one time) in League of Legends.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;I noticed one day that both of these games are 5v5 team games, each with their own “meta-game” or simply “meta”. The meta for a game is a set of generally held beliefs or principles about how people “should” &lt;a href=&quot;#2&quot;&gt;(2)&lt;/a&gt; play the game that on average produces the most desirable outcome. These principles coalesce into 5 specialized player “roles” in both basketball and League of Legends. Each role balances the others out, all working together to win the game. The particulars aren’t important right now, so to keep it simple let’s just call one player role a “Support Hero/Champion” or “Support”, and the others are “Carry Hero/Champion” or “Carry” roles. The terms “Support Hero/Champion” and “Carry Hero” are borrowed from Real Time Strategy games like previously mentioned League of Legends or DOTA where a player controls a single avatar, typically called a “Hero” or a “Champion” that can cast spells and attack enemies.&lt;/p&gt;
 
-&lt;h3 id=&quot;tags-and-categories&quot;&gt;Tags and Categories&lt;/h3&gt;
+&lt;h2 id=&quot;the-meta&quot;&gt;THE META&lt;/h2&gt;
 
-&lt;p&gt;If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the &lt;a href=&quot;https://github.com/jekyll/jekyll-archives&quot;&gt;jekyll-archive&lt;/a&gt; gem.&lt;/p&gt;
+&lt;p&gt;Carry players are the ones “carrying the team” and “putting the team on their back” &lt;a href=&quot;#3&quot;&gt;(3)&lt;/a&gt;. These players make the big plays that the layperson can appreciate. Their names are well-known because they are the ones taking shots and scoring; something that very visibly turns the tide of the game. In order for these Carry players to have the opportunity to be big stars by taking shots, someone else needs to NOT take shots: the Support player.&lt;/p&gt;
 
-&lt;h3 id=&quot;cover-images&quot;&gt;Cover Images&lt;/h3&gt;
+&lt;p&gt;The Support player is in a constant battle to ESTABLISH and MAINTAIN the necessary conditions/environment for the Carry player to thrive. If for example, the Support player(s) in basketball are having a hard time getting the ball across half court (due to a full court press, etc), this does not allow for the Carry player to set up and move into a good scoring position. It doesn’t matter how good the Carry player is at scoring if they never have an opportunity to touch the ball.&lt;/p&gt;
 
-&lt;p&gt;To add a cover image to your post, set the “cover” property in the front matter with the relative URL of the image (i.e. &lt;code&gt;cover: &quot;/assets/cover_image.jpg&quot;&lt;/code&gt;).&lt;/p&gt;
+&lt;p&gt;Of course, the Support player is no slouch in their individual contributions to the team either. They can hold their own with their individual skills, because that is ultimately how each person operates and contributes to a team: as individuals. In addition to maintaining an environment where the Carry is free to exert and maximize their scoring skills, the Support players also try to find ways to make the Carry better, more effective, and effectively MULTIPLY their success. That’s how I see Support players: FORCE MULTIPLIERS.&lt;/p&gt;
 
-&lt;h3 id=&quot;code-snippets&quot;&gt;Code Snippets&lt;/h3&gt;
+&lt;p&gt;I like multiplication, maybe because I’m a nerd who played too much Warcraft III and enjoyed using units that made others more effective with spells or passive “auras”. Let’s say for example if a Support player joins a basketball team, and they’re able to add just 10% armor poi-I mean, more points on the board (~10 points in an average NBA game) through just their presence on the court alone, without scoring themselves. They could do this by passing and cutting to the rim 10% more effectively than the average player so that the Carry players have better opportunities to score. That’s the difference between winning and losing MANY close games according to the average &lt;a href=&quot;https://www.teamrankings.com/nba/stat/average-scoring-margin&quot;&gt;NBA margin of victory&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;You can use &lt;a href=&quot;https://highlightjs.org/&quot;&gt;highlight.js&lt;/a&gt; to add syntax highlight code snippets:&lt;/p&gt;
+&lt;h2 id=&quot;an-invisible-thread&quot;&gt;AN INVISIBLE THREAD&lt;/h2&gt;
 
-&lt;p&gt;Use the &lt;a href=&quot;https://github.com/Shopify/liquid/wiki/Liquid-for-Designers&quot;&gt;Liquid&lt;/a&gt; &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;highlight&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;&amp;lt;language&amp;gt;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; tag to add syntax highlighting to code snippets.&lt;/p&gt;
+&lt;p&gt;I have only recently identified this invisible thread that has been pervasive throughout my life: my affinity towards being a Support player. I’m choosing to acknowledge it and embrace it.&lt;/p&gt;
 
-&lt;p&gt;For instance, this template…&lt;/p&gt;
+&lt;p&gt;I started my Support player career in youth baseball. I was always in the outfield. The coaches claimed it was because I was bigger, so I had a better arm to throw from the outfield. Looking back on it, it was also because I wasn’t as quick or as coordinated with catching ground balls as the smaller kids who got to play in the action-packed, quick twitch infield &lt;a href=&quot;#4&quot;&gt;(4)&lt;/a&gt;. I believe this began my mental distinction between me and the “skilled” players in whatever sport I played.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;{% highlight javascript %}    
-function demo(string, times) {    
-  for (var i = 0; i &lt;span class=&quot;nt&quot;&gt;&amp;lt; times&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;++)&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;{&lt;/span&gt;    
-    &lt;span class=&quot;na&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;);&lt;/span&gt;    
-  &lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;    
-&lt;span class=&quot;err&quot;&gt;}&lt;/span&gt;    
-&lt;span class=&quot;na&quot;&gt;demo&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;(&quot;&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;world&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;!&quot;,&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;err&quot;&gt;{%&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;endhighlight&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;%}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;A similar story played out in my youth basketball days, where my main job was being a “space eater” by making it harder for the other kids to drive to the basket. I think I scored maybe a dozen points in my entire organized basketball career.&lt;/p&gt;
 
-&lt;p&gt;…will come out looking like this:&lt;/p&gt;
+&lt;p&gt;Ever since I started playing organized football (6th grade - flag football) I always played Center on the Offensive Line. The Center is the person who “snaps”/“hikes” the football to the Quarterback (the most important Carry player on the team) to start every play. Probably the most thankless position on the Offensive Line &lt;a href=&quot;#5&quot;&gt;(5)&lt;/a&gt;. I only got recognition when I screwed up and snapped the ball over the Quarterback’s head, or there was a fumble on the “under center” exchange &lt;a href=&quot;#6&quot;&gt;(6)&lt;/a&gt;. But I was a leader. I didn’t verbally lead much. I didn’t get up in front and yell encouraging, motivating things. I was very unconfident and insecure with myself at the time, but I knew that at least I could lead by example by working as hard as possible.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;demo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;times&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;times&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;string&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;demo&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;hello, world!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Please don’t take my recounting of my non-starring roles on sports teams as me complaining about my lack of success in sports due to me being slow and uncoordinated. I feel quite the opposite.&lt;/p&gt;
 
-&lt;p&gt;Syntax highlighting is done using &lt;a href=&quot;https://highlightjs.org/&quot;&gt;highlight.js&lt;/a&gt;. You can change the active theme in &lt;a href=&quot;https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15&quot;&gt;head.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I feel very grateful to be born into a great, loving, supportive, upper-middle class family and have a great set of talents to work with to earn starting spots as a Support player &lt;a href=&quot;#7&quot;&gt;(7)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+&lt;p&gt;I am grateful for the time I spent playing team sports and the lessons I learned by playing the roles that my coaches guided me towards &lt;a href=&quot;#8&quot;&gt;(8)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Lightbox has been enabled for images. To create the link that’ll launch the lightbox, add &lt;code&gt;data-lightbox&lt;/code&gt; and &lt;code&gt;data-title&lt;/code&gt; attributes to an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag around your &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; tag. The result is:&lt;/p&gt;
+&lt;p&gt;With that frame of reference in mind, speaking out of gratitude, I’m going to illustrate how I’ve seen this Carry/Support dynamic plays out in the professional world.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;//bencentra.com/assets/images/falcon9_large.jpg&quot; data-lightbox=&quot;falcon9-large&quot; data-title=&quot;Check out the Falcon 9 from SpaceX&quot;&gt;
-  &lt;img src=&quot;//bencentra.com/assets/images/falcon9_small.jpg&quot; title=&quot;Check out the Falcon 9 from SpaceX&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-workplace-meta&quot;&gt;THE WORKPLACE META&lt;/h2&gt;
 
-&lt;p&gt;For more information, check out the &lt;a href=&quot;http://lokeshdhakar.com/projects/lightbox2/&quot;&gt;Lightbox&lt;/a&gt; website.&lt;/p&gt;
+&lt;p&gt;I have seen a similar meta of Support and Carry players that applies to the workplace. I am on the “build engineering” / “continuous integration” team. This team of Support Heroes is responsible for orchestrating the process of running the right combination and sequence of software on the right hardware at the right time. We establish and maintain an environment where our Carry players (developers) can test their code before they merge it with everyone else’s code so we have a high level of confidence that their changes don’t cause any major bugs in our app.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To use a different sports analogy, the developers are like the “skill players” on an NFL team. We have a star quarterback (a software architect), who directs where the receivers and running backs (feature developers) should run to catch the ball and score points for the team. Scoring points in this context is developers creating new features that makes customers want to buy the product. If the offensive line (build engineering) allows defenders to disrupt the play in the backfield and the quarterback gets sacked or the running back gets tackled for a loss (bugs in the automated build and test system), we no longer have an environment where our skill players can score points and win the game. I’m embracing the challenge of playing on the offensive line again.&lt;/p&gt;
 
+&lt;p&gt;It is solely the lineman’s responsibility for protecting the quarterback and skill players from defenders. If a defender gets through and sacks the quarterback, it is on the linemen alone. But when a score is achieved by the skill players, it is solely the skill players involved in a play that get credited with the yards gained and touchdowns scored in their personal stat line.&lt;/p&gt;
+
+&lt;p&gt;Most people “follow the ball” when watching sports. That’s where the most interesting action is: anticipating the opportunity to celebrate a score. &lt;a href=&quot;http://www.nfl.com/videos/san-francisco-49ers/0ap2000000146412/8-The-Catch&quot;&gt;The drama of a quarterback scrambling to avoid defenders to then precisely deliver a pass to a spot where only his receiver get grab it is exciting!&lt;/a&gt;. &lt;a href=&quot;https://www.youtube.com/watch?v=JyVfrwwEwgA&quot;&gt;Or the thrill of the running back evading and escaping defenders on his way to the end zone.&lt;/a&gt; The skill players who run with the ball are the obvious choice for who the camera zooms in on when they score and celebrate a touchdown.&lt;/p&gt;
+
+&lt;p&gt;What the camera often overlooks is the offensive linemen who were left behind in the play &lt;a href=&quot;#9&quot;&gt;(9)&lt;/a&gt; who established and maintained the conditions for the quarterback to deliver the perfect pass, or for the running back to make a cut to daylight.&lt;/p&gt;
+
+&lt;p&gt;I want to call out and celebrate the efforts of “linemen” of the world, the Support Heroes. They are the workplace’s unsung heroes and need their time in the sun because they as a unit tend to shy away from the spotlight and just want to do their job to the best of their ability without complaint for the good of the team.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-dark-side&quot;&gt;THE DARK SIDE&lt;/h2&gt;
+
+&lt;p&gt;There is a dark side to being a “Support Hero”. By virtue of the position, they do not get a lot of credit. They are susceptible to take on more than what is required of themselves without complaint because that is what they believe is going to make the team successful. To the point where they break.&lt;/p&gt;
+
+&lt;p&gt;What really caused me to notice and analyze this “Support Hero” pattern throughout my life was when my brother described a situation where he was taking on way too much work and feeling overwhelmed without letting anyone know. I knew exactly what he was talking about because I had experienced same situation not too long ago. It isn’t in his nor my nature to openly boast about our accomplishments nor complain about our workload, we just focus on the task at hand and get it done, no matter how long it takes.&lt;/p&gt;
+
+&lt;p&gt;While this is “noble”, it isn’t &lt;em&gt;adaptive&lt;/em&gt; or even &lt;em&gt;productive&lt;/em&gt; in a corporate environment where there is “always more work to do”. If we do not let others know how much work we are doing, we will continue to take more on. The ironic thing is that when we take too much on, our overall progress and productivity slows to a crawl due to trying to juggle so many responsibilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;metagame-planning&quot;&gt;METAGAME PLANNING&lt;/h2&gt;
+
+&lt;p&gt;Support Heroes more often than not need someone to tell them when to &lt;em&gt;stop&lt;/em&gt; working. They need help to define and focus on the most important priorities, and then delegate the tasks that don’t require their specialty out. The most important priority to me is not necessarily the most important priority to my manager, so frequent one on ones (at least once a week) “meeting of the minds” time is crucial to get on and stay on the same page. This is where I have come to realize the importance and value of a good manager.&lt;/p&gt;
+
+&lt;p&gt;Managers are much like coaches in the NFL. They need to define the overall strategy translate it to tactics executed by their players. They need to define what is and is not a player’s role on the team so they can work most effectively to contribute the most value to the team and ultimately, to the customer. &lt;a href=&quot;#10&quot;&gt;(10)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;force-multiplier&quot;&gt;FORCE MULTIPLIER&lt;/h2&gt;
+
+&lt;p&gt;Support Heroes are a force multiplier in a team environment (which is effectively ALL environments where other people are involved). Support Heroes are the stone that sharpens Abraham Lincoln’s axe when he says, “Give me six hours to chop down a tree and I will spend the first four sharpening the axe”. The axe is the Carry Hero who does the thing that accomplishes the goal, but they can be even more effective with a Support Hero to help sharpen them.&lt;/p&gt;
+
+&lt;p&gt;Support Heroes are reliable.&lt;/p&gt;
+
+&lt;p&gt;Support Heroes will never let the team down.&lt;/p&gt;
+
+&lt;p&gt;Support Heroes make everyone else better.&lt;/p&gt;
+
+&lt;p&gt;Support Heroes don’t score the points, but they help win the game.&lt;/p&gt;
+
+&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;1&quot;&gt;&lt;/a&gt;
+(1) If you watch the first three plays on my brother’s personal HIGHLIGHT video, they are ASSISTS. By his count, he has about the same number of personal makes vs. assists. These are THE FUNDAMENTALS being played at a high level.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;2&quot;&gt;&lt;/a&gt;
+(2) I have an issue with “should” because at first glance, I feel like it’s limiting creativity. But I realize that “creativity loves constraint”, so players can get creative within the meta itself. The meta is simply a framework or a common language that everyone understands to build off so that 5 complete strangers can play together in a cohesive manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;3&quot;&gt;&lt;/a&gt;
+(3) Like &lt;a href=&quot;https://www.youtube.com/watch?v=1P0yfq2wDvU&quot;&gt;Greg Jennings&lt;/a&gt;. Or &lt;a href=&quot;https://www.youtube.com/watch?v=gd_Vd43Vxa0&quot;&gt;Marshawn Lynch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;4&quot;&gt;&lt;/a&gt;
+(4) I was alright at baseball. I hit two home runs, but it was pretty boring most of the time in the outfield.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;5&quot;&gt;&lt;/a&gt;
+(5) I haven’t seen a major motion picture about a Center, yet. I’m looking at you, Michael Oher. But, interestingly enough, the OL as a position on average, gets &lt;a href=&quot;http://work.chron.com/position-nfl-gets-paid-least-12427.html&quot;&gt;&lt;em&gt;paid&lt;/em&gt;&lt;/a&gt; in the NFL, third to only Pass Rushers and Quarterbacks. The cited article has an interesting explanation for those three positions in particular.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;6&quot;&gt;&lt;/a&gt;
+(6) Probably the strangely socially-acceptable aspect of the sport. I played the position for 7 years. Looking back at it if I were to try to explain to an basically anyone outside of the US, it would be awkward to say the least.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;7&quot;&gt;&lt;/a&gt;
+(7) I was one of the strongest guys on the high school football team and I ran a 6:10 mile in middle school track. Point is, I wasn’t a “late bloomer”, I was lucky to have some physical gifts that gave me an advantage early on.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;8&quot;&gt;&lt;/a&gt;
+(8) I did try out for running back freshman year of high school football. That lasted two days.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;9&quot;&gt;&lt;/a&gt;
+(9) There are occasions when &lt;a href=&quot;https://www.youtube.com/watch?v=JyVfrwwEwgA&quot;&gt;linemen deliver superhuman performances and are able to run ahead of ball carrier (who, by the way, is supposed to be the fastest guy on the field) downfield to deliver critical blocks&lt;/a&gt;, but that’s generally the exception, and not the average case.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;10&quot;&gt;&lt;/a&gt;
+(10) I’ll probably expand on this more in a future post where I dive deep into one of the most effectively run organizations on the face of the planet: The New England Patriots, even though I’m an Atlanta Falcons fan.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html</guid>
-        
-        <category>jekyll</category>
-        
-        <category>welcome</category>
+        <pubDate>Tue, 21 Nov 2017 00:00:00 -0800</pubDate>
+        <link>https://michaellady.github.io//dev/2017/11/21/On-Being-A-Support-Hero.html</link>
+        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/11/21/On-Being-A-Support-Hero.html</guid>
         
         
-        <category>Jekyll</category>
+        <category>dev</category>
         
       </item>
     
       <item>
-        <title>Dummy Post 6</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+        <title>The Importance of Mentorship</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../cement-mixer.png&quot; alt=&quot;alt text&quot; title=&quot;Brian's Hands&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Hey all,&lt;/p&gt;
+
+&lt;p&gt;I mentioned an injury last time, but that will NOT be the main focus of this post! I will need meniscus surgery to make my right knee 100% better. I’ll be getting it in December.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’m doing what I can and working around it. I’m following the advice of one of my main mentors, Brian Riskas of &lt;a href=&quot;https://www.instagram.com/rmdsystems/&quot;&gt;RMD Systems&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-be-an-idiot-and-rush-back-to-training-until-it-is-taken-care-of-ask-me-how-i-know&quot;&gt;“Don’t be an idiot and rush back to training until it is taken care of. Ask me how I know.”&lt;/h2&gt;
+
+&lt;p&gt;Blunt, personally-experienced lessons like these take a certain kind of relationship to be communicated effectively. I’ve heard his hands crackle like a “cement mixer” when he grips a Gi, and I am not keen on having my knee possess those same properties, so I take what he says seriously.&lt;/p&gt;
+
+&lt;p&gt;This is one of many times when he’s given me a nugget of wisdom free of charge (well, maybe at the cost of a beer or two 😉). I try to treat talking with Brian as if he were me 10 years from now in an alternate dimension where I was a mechanical engineer and I was sending a message back though a spacetime machine. I’m not saying I agree with 100% of what he says, but let’s just say I put more weight in it than the average “13 Simple Hacks to Change Your Life” listicle.&lt;/p&gt;
+
+&lt;p&gt;This is a perfect example of why I want to write in this format. Not knocking Brian’s advice nor delivery, but he and I had a well-understood friendship prior to him giving me his blunt wisdom. You, the reader, and I don’t really have that kind of relationship, at least not yet. This longer format helps develop an understanding for communicating important ideas that they don’t teach you in school.&lt;/p&gt;
+
+&lt;h2 id=&quot;inflammation&quot;&gt;Inflammation&lt;/h2&gt;
+
+&lt;p&gt;If I started this post off with something inflammatory such as, “Don’t be an idiot”, and you didn’t know me, you would likely not be open to anything else I had to say and you would immediately browse to your next tab out of the 37 you already have open. You wouldn’t give me a chance to explain how I came to know a particular fact where if I, like Brian, had to personally experience it. I could say something about our current political discourse here, but I won’t.&lt;/p&gt;
+
+&lt;p&gt;That’s essentially how “mentorship”, heck, any productive conversation, dare I say, “communication” between two humans works. It takes the work of two people: one with an intention of sending a message through spacetime and the other open to receiving messages (that may or may not be from another dimension). If one doesn’t want to send, nor if the other wants to receive, it doesn’t work.&lt;/p&gt;
+
+&lt;h2 id=&quot;duh&quot;&gt;“Duh”&lt;/h2&gt;
+
+&lt;p&gt;You may be thinking, “yeah, well duh, Mike, of course that’s how it works”. I’m sorry, but sometimes it’s helpful to spell things out really plainly to see a different perspective. See &lt;a href=&quot;https://blog.codinghorror.com/rubber-duck-problem-solving/&quot;&gt;Rubber Ducky Programming&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There have been many times in my life where I wasn’t open to receiving messages (knowingly and unknowingly), but messages were being sent to me, and vice versa. I was (and still am sometimes) not aware enough to believe that there were messages actually being sent to me. Other times, I send the “correct” or “accurate” message content, but I delivered it in a way that rubbed the person the wrong way, even if it was truthful.&lt;/p&gt;
+
+&lt;p&gt;The key, as Jocko says, is &lt;a href=&quot;https://www.youtube.com/watch?v=q5SHjSnynzw&quot;&gt;“Mind Control”&lt;/a&gt; &lt;a href=&quot;#one&quot;&gt;(1)&lt;/a&gt;. TL;DR: Be more aware of and in control of your thoughts, because they are what make up “you”. How well you control your own thoughts dictates how well you are able to control other people’s thoughts. Uh oh, sounds like Jocko is up to no good, is he?&lt;/p&gt;
+
+&lt;p&gt;He says the better you can “detach” yourself from your ego and “get out of your own head” to see the other person’s perspective, the better you can mold the verbalization of your thoughts to achieve the desired outcome of the communication with that person. This helps your thought get transferred in such a way that the other person has the best chance of interpreting that thought as precisely as you understood it when you sent it. Now it is up to the receiving party to take that message, or leave it.&lt;/p&gt;
+
+&lt;h2 id=&quot;message-received&quot;&gt;Message Received&lt;/h2&gt;
+
+&lt;p&gt;I highly recommend everyone to try to find a willing &lt;a href=&quot;#two&quot;&gt;(2)&lt;/a&gt; in-person mentor who is someone you look up to and hope to achieve something similar one day, and find a way to &lt;a href=&quot;https://www.garyvaynerchuk.com/giving-without-expectation/&quot;&gt;provide them value&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As corporate as that sounds, “providing value” could be as simple as treating the person to a coffee, a Jiu-jitsu roll, etc. If this is not possible (make sure you tried the providing value part), reading long form articles and books from people that you want to be like work here as well, but not as effective or as personalized &lt;a href=&quot;#three&quot;&gt;(3)&lt;/a&gt;. You’ll pick up on soon (if not already) the kind of person I strive to be like.&lt;/p&gt;
+
+&lt;p&gt;(Un)fortunately, we live in a society where we don’t have structured apprenticeships where there is a designated “master” and “apprentice”. Because of this, you have to get your mentoring/support from multiple sources. If you are the average of the five people you interact with the most, choose those five “positions” carefully. As carefully as if you’re forming an All-Star basketball team that has to beat the Warriors at home. Yes, that carefully. I will expand on this in another post, but it is very important to spend most of your time with people who have the same goal / same path through life as you.&lt;/p&gt;
+
+&lt;p&gt;Thanks to Brian for the advice that prompted this post. Check out his &lt;a href=&quot;https://www.youtube.com/watch?v=pF0YMF9W2hU&amp;amp;list=PLk4CDwBkUfpI1ExKUUUscP0N8vR3ywzpP&quot;&gt;crazy spider robot&lt;/a&gt; and &lt;a href=&quot;http://www.rmd-systems.com/drone-services/&quot;&gt;drones&lt;/a&gt; that he builds!&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;p&gt;&lt;a name=&quot;one&quot;&gt;&lt;/a&gt;
+(1) If you couldn’t tell already, I love referencing things. This is going to be a normal thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;two&quot;&gt;&lt;/a&gt;
+(2) You can’t just “demand” someone be your mentor. They have to be motivated to see you succeed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;three&quot;&gt;&lt;/a&gt;
+(3) &lt;a href=&quot;https://news.ycombinator.com/&quot;&gt;Hacker News&lt;/a&gt; keeps me up to date with the zeitgeist of the tech world, with many insightful linked articles and comments from other professionals in the industry. This might need its own post.&lt;/p&gt;
+
 </description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy6.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy6.html</guid>
-        
-        <category>lorem</category>
-        
-        <category>ipsum</category>
+        <pubDate>Thu, 19 Oct 2017 00:00:00 -0700</pubDate>
+        <link>https://michaellady.github.io//dev/2017/10/19/The-Importance-of-Mentorship.html</link>
+        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/10/19/The-Importance-of-Mentorship.html</guid>
         
         
-        <category>Dummy</category>
+        <category>dev</category>
         
       </item>
     
       <item>
-        <title>Dummy Post 5</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+        <title>The MOST Important Resource</title>
+        <description>&lt;p&gt;&lt;img src=&quot;../pocketwatch.jpg&quot; alt=&quot;alt text&quot; title=&quot;Not my year, but my alma mater&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy5.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy5.html</guid>
-        
-        <category>lorem</category>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 4</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+&lt;h2 id=&quot;what-is-your-most-important-non-renewable-resource&quot;&gt;What is your MOST important, non-renewable resource?&lt;/h2&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy4.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy4.html</guid>
-        
-        <category>ipsum</category>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 3</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+&lt;p&gt;I don’t use caps lock that often, but when I do, it means I’m passionate about it. This resource is used in both business and personal life.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy3.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy3.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post 2</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+&lt;p&gt;Technology? You can always buy more of it and optimize its use.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy2.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy2.html</guid>
-        
-        
-        <category>Dummy</category>
-        
-      </item>
-    
-      <item>
-        <title>Dummy Post</title>
-        <description>&lt;p&gt;This is just a dummy post. Lorem ipsum and all the rest.&lt;/p&gt;
+&lt;p&gt;Money? You can always make/beg/borrow/steal more.&lt;/p&gt;
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Health? Getting warmer, but not quite, at least not directly &lt;a href=&quot;#one&quot;&gt;(1)&lt;/a&gt;. This deserves its own post, but barring inherited predispositions towards disease and injury, you have more control over your personal health than nearly anything else in your life. You have direct control over your own &lt;a href=&quot;https://twitter.com/joerogan/status/580797582223511552&quot;&gt;“meat vehicle”&lt;/a&gt;; you don’t have to ask permission from a bureaucracy to change what food you put in your mouth or how much physical activity you perform. Use that to your advantage &lt;a href=&quot;#two&quot;&gt;(2)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;time&quot;&gt;Time&lt;/h2&gt;
+&lt;p&gt;Time once spent, cannot ever be gotten back. AND you only have a limited, finite amount of it &lt;a href=&quot;#three&quot;&gt;(3)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Those seconds that turn into minutes, that turn into hours, that turn in to days/months/years cannot be returned, reused, or repurposed for personal fulfillment or enjoyment.&lt;/p&gt;
+
+&lt;p&gt;Take a hard look about how many times you open up Facebook or other social media and “news” sites in a day. There always seems to be “dead time” to check it. I’m just as guilty, if not more.&lt;/p&gt;
+
+&lt;p&gt;My job involves waiting for code to compile and for automated tests to run, so there is plenty of opportunity for “dead time” in between my day’s tasks. That’s when the phone comes out and the brain turns off as I mindlessly scroll from one headline, “Stephen A. Smith ‘disappointed’ in Cam Newton” to another “Iranian Hackers Targeted Deloitte Via A Seriously Convincing Facebook Fake”. (The irony is not lost on me that you’re probably reading this from me posting on Facebook.)&lt;/p&gt;
+
+&lt;p&gt;I’m able to mitigate the mindless scrolling with the &lt;a href=&quot;https://freedom.to&quot;&gt;Freedom app/web blocker&lt;/a&gt; (not an affiliate link). It works pretty well, and has a technically interesting blocking mechanism, but I still want to analyze the motivation for why we want to turn out brains off and let the phone do the thinking for us.&lt;/p&gt;
+
+&lt;h2 id=&quot;cliche-alert&quot;&gt;Cliche Alert&lt;/h2&gt;
+
+&lt;p&gt;It’s cliche at this point, but we have a fear of missing out. We’re always waiting for something to happen. We want to be one of the first people to know something “new” and then repost it to show our friends how much we know about the world. (Again, the irony is not lost on me that I’m posting this as if I know something about the world, but I will give myself the credit of actually writing this whole post, not just reposting what someone else said.)&lt;/p&gt;
+
+&lt;p&gt;But when has reading something from Facebook/Reddit/Hacker News/Social Media fundamentally changed your life? How many times have you made a life decision based on a single source of posted media or content? For me, zero, and I would hazard a guess that it is zero or close to it for you as well.&lt;/p&gt;
+
+&lt;p&gt;If we’re not changing our lives around based on the “7 Easy Little Ways You Can Greatly Improve Your Health”, (even though it says something important about health!), then what are we getting out of bite-sized articles? (Side note: &lt;a href=&quot;https://www.bustle.com/articles/134854-8-tips-for-writing-a-listicle-that-will-get-published&quot;&gt;my favorite meta-listicle&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I think of personal media consumption (and learning / life experience in general) as like a constant, flowing stream of water. This stream carves out paths in the unshaped bedrock of your mind.&lt;/p&gt;
+
+&lt;p&gt;Each headline digs into the bedrock a bit while still going along a pre-existing path to reinforce an idea. The overall bedrock is molded by this stream. Learning is in the direction of this flowing stream.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-is-your-stream-flowing&quot;&gt;Where is your stream flowing?&lt;/h2&gt;
+
+&lt;p&gt;I challenge you to evaluate the content you choose to view on a daily basis and the thoughts that arise from that content. Is it supportive of who you want to be? Is it carefully chosen to carve out the direction you want your mind to go?&lt;/p&gt;
+
+&lt;p&gt;Don’t get me wrong, I’m not advocating for your life to be 100% “productive” (whatever that means) and 0% fun. There has to be a yin and a yang, an ebb and flow (topic for a future post). Go ahead and watch that cat video, share those dank memes, catch up on celebrity gossip. Just don’t do it “mind-less”-ly out of habitx. Be “mind-full” of the stream you are shaping your bedrock with and how often you are doing so.&lt;/p&gt;
+
+&lt;p&gt;If you want to change the direction of your stream, you are my motivation for creating this content. I want to be a part of the stream that positively shapes people’s minds and help them find life in the “dead time” that may not have been positive and supportive otherwise. Plus, I have gotten a lot out of writing this by crystallizing my thoughts and expressing myself more eloquently than I am normally able to in a conversation.&lt;/p&gt;
+
+&lt;p&gt;Look out for more posts from me in the future about heady topics such as: Grit, Humility, Mentorship, Injury, as well as lighter topics like the music I listen to, what I do for fun, etc.&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading!&lt;/p&gt;
+
+&lt;p&gt;Footnotes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;one&quot;&gt;&lt;/a&gt;
+(1) The total amount and quality of time one has is heavily influenced by the aforementioned “Health” factor, so invest your time in a “guaranteed ROI” by improving your fitness.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;two&quot;&gt;&lt;/a&gt;
+(2) I constantly need to remind myself about this. Luckily, I enjoy physical activity. Unluckily, I don’t enjoy green things, and love carbs. Find ways to make incremental, consistently-held changes in your life. This will be a post at some point.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;three&quot;&gt;&lt;/a&gt;
+(3) Probably the most shocking and awkward to explain phone background I’ve had for about 4 months is &lt;a href=&quot;https://www.garyvaynerchuk.com/youre-gonna-die/&quot;&gt;“You’re Gonna Die” from Gary Vaynerchuk&lt;/a&gt;. Currently it is &lt;a href=&quot;https://www.youtube.com/watch?v=IdTMDpizis8&quot;&gt;“Good” by Jocko Willink&lt;/a&gt; since I’ve gotten injured. More on that later.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 18 Apr 2015 01:43:59 -0700</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy.html</guid>
+        <pubDate>Thu, 12 Oct 2017 00:00:00 -0700</pubDate>
+        <link>https://michaellady.github.io//dev/2017/10/12/The-Most-Important-Resource.html</link>
+        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/10/12/The-Most-Important-Resource.html</guid>
         
         
-        <category>Dummy</category>
+        <category>dev</category>
         
       </item>
     
