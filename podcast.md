@@ -8,4 +8,4 @@ I make a daily podcast called <a href="https://anchor.fm/mikelady91">The Daily R
 
 "Life" happens at the daily level. It sounds simple, but what you do every day largely determines how you fare in the future. That's why I choose to wake up early and train, and be thoughtful and introspective about it by recording this podcast. This way, I can squeeze the most juice out of every day. 
 
-<iframe src="https://anchor.fm/mikelady91" height="1000px" width="100%" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://anchor.fm/mikelady91" height="500px" width="100%" frameborder="0" scrolling="yes"></iframe>
