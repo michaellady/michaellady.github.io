@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Mike Lady's Personal Site
-subtitle: "Grapples with humans and code. Striving to be the hero of my own story and sharing what I learn along the way."
+subtitle: "Grappling with humans and code. Striving to be the hero of my own story and sharing what I learn along the way."
 email: michaellady@gmail.com
 name: Mike Lady
 description: >
-  Grapples with humans and code. Striving to be the hero of my own story and sharing what I learn along the way.
+  Grappling with humans and code. Striving to be the hero of my own story and sharing what I learn along the way.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
