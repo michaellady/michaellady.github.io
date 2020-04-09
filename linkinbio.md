@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Link In Bio
+main_nav: false
 permalink: /linkinbio/
 ---
 
