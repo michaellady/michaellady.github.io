@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quarantined Thoughts About Jiu Jitsu"
+title: "Quarantined Thoughts About Jiu-Jitsu"
 author: Mike Lady
 categories: grappling
 cover: /assets/subhunterpro53.jpg
@@ -16,7 +16,7 @@ It would behoove me to prepare more of the mental side... I've been slacking. It
 
 A happy medium for me seems to be watching my competition footage. It is part analyzing technique, and it is also part narcissism because it is me in the video that is actually trying to perform the technique. There's something to trying to work out what I remember experiencing at the time, as well as trying to see other opportunities or details that I may have missed in the heat of the match. Watching film of my matches is also relevant because the guy in the film plays the exact same game that I do! I watched a number of matches that I lost over the last year and found mistakes in each one of those matches (obviously). I never felt strictly outclassed technique-wise by people my belt rank; I have always been competitive in each of my matches. 
 
-It's interesting that in training, I feel more of a technical challenge than in competition. In training, you're mixed in with a variety of belt ranks. When I was a white belt, anybody blue and above could destroy me. Now, almost 8 years later, I compete and do well at purple belt, I give brown belts a good roll but they still have a step ahead on me, and Black belts can still do whatever they want to me. That's the humbling part. I've come this far, but I still have so far to go. I think that's the growth curve of jiu jitsu and why it's so hard: it is exponential growth. 
+It's interesting that in training, I feel more of a technical challenge than in competition. In training, you're mixed in with a variety of belt ranks. When I was a white belt, anybody blue and above could destroy me. Now, almost 8 years later, I compete and do well at purple belt, I give brown belts a good roll but they still have a step ahead on me, and Black belts can still do whatever they want to me. That's the humbling part. I've come this far, but I still have so far to go. I think that's the growth curve of jiu-jitsu and why it's so hard: it is exponential growth. 
 
 Each belt promotion may represent "25%" of your path to black belt (white to blue, blue to purple, purple to brown, brown to black), but the technical development between each promotion is much more than the previous one. You learn how to learn better and you grow your established game over time. As an upper belt, it is easier to add on a technique to your game if you already know the 6-10 techniques that lead up to it. It's just one step off your beaten path. At white belt, you're trying to grasp at disjoint techniques that don't seem to have anything to do with each other, and for the technique you don't know, you fill in with energy and physical attributes.
 
