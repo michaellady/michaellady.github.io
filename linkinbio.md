@@ -5,6 +5,8 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
+## [Technique AND Strength](/grappling/2020/04/10/Technique-and-Strength.html)
+
 ## [The Great Weight Shortage of 2020](/dev/2020/04/09/The-Great-Weight-Shortage-of-2020.html) ##
 
 ## [Quarantined Thoughts About Jiu-Jitsu](/grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html) ##
