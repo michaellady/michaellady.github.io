@@ -5,7 +5,7 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-## [Jiu-jitsu Film Study Playlist](https://www.youtube.com/playlist?list=PLxO_HUtxzxx3tRlUY7aPvNXcVZnSPJgHw) ##
+## [Jiu-Jitsu Film Study Playlist](https://www.youtube.com/playlist?list=PLxO_HUtxzxx3tRlUY7aPvNXcVZnSPJgHw) ##
 
 ## [On Writing in the Morning](/dev/2020/04/15/On-Writing-in-the-Morning.html) ##
 
