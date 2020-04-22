@@ -5,6 +5,8 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
+## [Jiu-jitsu Film Study Playlist](https://www.youtube.com/playlist?list=PLxO_HUtxzxx3tRlUY7aPvNXcVZnSPJgHw) ##
+
 ## [On Writing in the Morning](/dev/2020/04/15/On-Writing-in-the-Morning.html) ##
 
 ## [The Quarantine Hyperbolic Time Chamber](/dev/2020/04/14/The-Quarantine-Hyperbolic-Time-Chamber.html) ##
@@ -16,4 +18,3 @@ permalink: /linkinbio/
 ## [Quarantined Thoughts About Jiu-Jitsu](/grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html) ##
 
 ## [Purple Belt Jiu-Jitsu Matches](https://www.youtube.com/playlist?list=PLxO_HUtxzxx2wy81oBXEOGqsbuFxLJ35v) ##
-
