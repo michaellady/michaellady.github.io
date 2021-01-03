@@ -5,7 +5,7 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-<button type="button" name="button" class="btn" onclick="location.href='https://www.gogograppling.com'">GoGoGrappling</button>
+<button type="button" name="button" class="btn" onclick="location.href='https://www.gogograppling.com/store'">GoGoGrappling</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='/podcast'">My Podcast</button>
 
