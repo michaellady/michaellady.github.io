@@ -5,6 +5,8 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
+<button type="button" name="button" class="btn" onclick="location.href='https://www.gofundme.com/f/help-provide-for-alex-and-charlie'">GoFundMe for Spud's family</button>
+
 <button type="button" name="button" class="btn" onclick="location.href='https://www.gogograppling.com/a/39737/BBZchQYA'">Mike Lady's GoGoGrappling</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://www.gogograppling.com/link-in-bio'">GoGoGrappling's Link In Bio</button>
