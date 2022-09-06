@@ -11,6 +11,6 @@ permalink: /linkinbio/
 
 <button type="button" name="button" class="btn" onclick="location.href='/podcast'">The Mike Lady Podcast</button>
 
-<button type="button" name="button" class="btn" onclick="location.href='https://www.youtube.com/playlist?list=PLxO_HUtxzxx2wy81oBXEOGqsbuFxLJ35v'">Purple Belt Jiu-Jitsu Matches</button>
+<button type="button" name="button" class="btn" onclick="location.href='https://www.youtube.com/c/MikeLady'">YouTube Channel</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://www.gofundme.com/f/help-provide-for-alex-and-charlie'">GoFundMe for Spud's family</button>
