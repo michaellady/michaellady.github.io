@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mike Lady's Personal Site</title>
+    <title>Mike Lady</title>
     <description>Grappling with humans and code. Striving to be the hero of my own story and sharing what I learn along the way.
 </description>
-    <link>https://michaellady.github.io//</link>
-    <atom:link href="https://michaellady.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Aug 2022 21:31:32 -0700</pubDate>
-    <lastBuildDate>Sun, 14 Aug 2022 21:31:32 -0700</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Jul 2024 09:45:51 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 09:45:51 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>On Writing in the Morning</title>
@@ -25,8 +25,8 @@
 &lt;p&gt;That’s it. That’s the process. Life is a process. There isn’t an “stopping point”, or “end” to it while you’re living. If it isn’t changing, you’re dead. Things will always change, and you have to decide how to change (or not) along with them.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Apr 2020 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//dev/2020/04/15/On-Writing-in-the-Morning.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2020/04/15/On-Writing-in-the-Morning.html</guid>
+        <link>http://localhost:4000/dev/2020/04/15/On-Writing-in-the-Morning.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2020/04/15/On-Writing-in-the-Morning.html</guid>
         
         
         <category>dev</category>
@@ -88,8 +88,8 @@
 &lt;p&gt;What does your Quarantine Hyperbolic Time Chamber look like? Let me know if I can help.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Apr 2020 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//dev/2020/04/14/The-Quarantine-Hyperbolic-Time-Chamber.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2020/04/14/The-Quarantine-Hyperbolic-Time-Chamber.html</guid>
+        <link>http://localhost:4000/dev/2020/04/14/The-Quarantine-Hyperbolic-Time-Chamber.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2020/04/14/The-Quarantine-Hyperbolic-Time-Chamber.html</guid>
         
         
         <category>dev</category>
@@ -161,8 +161,8 @@
 &lt;p&gt;I’m a mere purple belt. I am not a world champion or anywhere close to it. These opinions are my own and just the perspective of how I see the world. Please let me know if there’s another perspective that I may be missing or if I’m totally wrong.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Apr 2020 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//grappling/2020/04/10/Technique-and-Strength.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//grappling/2020/04/10/Technique-and-Strength.html</guid>
+        <link>http://localhost:4000/grappling/2020/04/10/Technique-and-Strength.html</link>
+        <guid isPermaLink="true">http://localhost:4000/grappling/2020/04/10/Technique-and-Strength.html</guid>
         
         
         <category>grappling</category>
@@ -190,8 +190,8 @@
 &lt;p&gt;Overall, I just thought this was an interesting example of ECON101 at play in a space that I cared about, since I was in the market for weights at the time. Let me know of any other interesting examples (besides toilet-paper-as-currency memes) where the quarantine made something interesting happen in a space that you care about.&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Apr 2020 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//dev/2020/04/09/The-Great-Weight-Shortage-of-2020.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2020/04/09/The-Great-Weight-Shortage-of-2020.html</guid>
+        <link>http://localhost:4000/dev/2020/04/09/The-Great-Weight-Shortage-of-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2020/04/09/The-Great-Weight-Shortage-of-2020.html</guid>
         
         
         <category>dev</category>
@@ -217,8 +217,8 @@
 &lt;p&gt;Which brings me back to physical attributes. In order to apply technique effectively, you need a baseline of physical attributes. Your body must be able to do certain things in order to perform the techniques correctly. This baseline raises higher and higher as you progress up the belt ranks, and especially when you’re a competitor, you never &lt;em&gt;want&lt;/em&gt; to be weaker than your opponent, it just sometimes works out that way. As the famous powerlifter Mark Bell says, “strength is never a weakness”. So in this way, the quarantine is forcing me to raise my baseline of physical attributes, which have probably been lacking since I’ve been focusing so much on technique and getting to purple belt. The physical attributes and more importantly, habits that I develop during this time will allow me to chart a course for the physical demands that are required of me for the next belt and level of competition.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Apr 2020 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html</guid>
+        <link>http://localhost:4000/grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html</link>
+        <guid isPermaLink="true">http://localhost:4000/grappling/2020/04/07/Quarantined-Thoughts-About-Jiu-Jitsu.html</guid>
         
         
         <category>grappling</category>
@@ -270,8 +270,8 @@
 &lt;p&gt;Obligatory reminder to Share / Like / Subscribe&lt;/p&gt;
 </description>
         <pubDate>Mon, 21 Jan 2019 00:00:00 -0800</pubDate>
-        <link>https://michaellady.github.io//grappling/2019/01/21/Grappling-Industries-Post-Tournament-Analysis.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//grappling/2019/01/21/Grappling-Industries-Post-Tournament-Analysis.html</guid>
+        <link>http://localhost:4000/grappling/2019/01/21/Grappling-Industries-Post-Tournament-Analysis.html</link>
+        <guid isPermaLink="true">http://localhost:4000/grappling/2019/01/21/Grappling-Industries-Post-Tournament-Analysis.html</guid>
         
         
         <category>grappling</category>
@@ -370,8 +370,8 @@
 &lt;p&gt;Enjoy your time in college, if you are there. If not, enjoy your time where you are at, but with a purpose. Embrace the Time Warp!&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Jan 2019 00:00:00 -0800</pubDate>
-        <link>https://michaellady.github.io//dev/2019/01/06/Get-Ready-To-Time-Warp.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2019/01/06/Get-Ready-To-Time-Warp.html</guid>
+        <link>http://localhost:4000/dev/2019/01/06/Get-Ready-To-Time-Warp.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2019/01/06/Get-Ready-To-Time-Warp.html</guid>
         
         
         <category>dev</category>
@@ -485,8 +485,8 @@
 (10) I’ll probably expand on this more in a future post where I dive deep into one of the most effectively run organizations on the face of the planet: The New England Patriots, even though I’m an Atlanta Falcons fan.&lt;/p&gt;
 </description>
         <pubDate>Tue, 21 Nov 2017 00:00:00 -0800</pubDate>
-        <link>https://michaellady.github.io//dev/2017/11/21/On-Being-A-Support-Hero.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/11/21/On-Being-A-Support-Hero.html</guid>
+        <link>http://localhost:4000/dev/2017/11/21/On-Being-A-Support-Hero.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2017/11/21/On-Being-A-Support-Hero.html</guid>
         
         
         <category>dev</category>
@@ -548,8 +548,8 @@
 
 </description>
         <pubDate>Thu, 19 Oct 2017 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//dev/2017/10/19/The-Importance-of-Mentorship.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/10/19/The-Importance-of-Mentorship.html</guid>
+        <link>http://localhost:4000/dev/2017/10/19/The-Importance-of-Mentorship.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2017/10/19/The-Importance-of-Mentorship.html</guid>
         
         
         <category>dev</category>
@@ -615,8 +615,8 @@
 (3) Probably the most shocking and awkward to explain phone background I’ve had for about 4 months is &lt;a href=&quot;https://www.garyvaynerchuk.com/youre-gonna-die/&quot;&gt;“You’re Gonna Die” from Gary Vaynerchuk&lt;/a&gt;. Currently it is &lt;a href=&quot;https://www.youtube.com/watch?v=IdTMDpizis8&quot;&gt;“Good” by Jocko Willink&lt;/a&gt; since I’ve gotten injured. More on that later.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Oct 2017 00:00:00 -0700</pubDate>
-        <link>https://michaellady.github.io//dev/2017/10/12/The-Most-Important-Resource.html</link>
-        <guid isPermaLink="true">https://michaellady.github.io//dev/2017/10/12/The-Most-Important-Resource.html</guid>
+        <link>http://localhost:4000/dev/2017/10/12/The-Most-Important-Resource.html</link>
+        <guid isPermaLink="true">http://localhost:4000/dev/2017/10/12/The-Most-Important-Resource.html</guid>
         
         
         <category>dev</category>

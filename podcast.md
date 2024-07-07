@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Podcast
+title: Old Podcast
+main_nav: false
 permalink: /podcast/
 ---
 
