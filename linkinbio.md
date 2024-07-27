@@ -5,7 +5,7 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-<button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/4cQdgjP'">Intake Breathing Amazon Affiliate Link</button>
+<button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3Ylblzv'">Intake Breathing Amazon Affiliate Link</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://www.skool.com/get-a-belt-rank-better-1629'">BJJ Belt Buddy White Belt Group</button>
 
