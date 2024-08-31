@@ -5,16 +5,14 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-<button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3Ylblzv'">Intake Breathing Amazon Affiliate Link</button>
+<button type="button" name="button" class="btn" onclick="location.href='https://www.skool.com/bjjfaqs/about'">BJJ FAQs - Rank Up in 1 year or your money back! </button>
 
-<button type="button" name="button" class="btn" onclick="location.href='https://www.skool.com/get-a-belt-rank-better-1629'">BJJ Belt Buddy White Belt Group</button>
+<button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3Ylblzv'">Intake Breathing Nasal Strip</button>
+
+<button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3X6shYb'">Micro Plates for Progressive Overload</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://anchor.fm/humans-of-grappling'">Humans of Grappling Podcast</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://calendly.com/mikelady/humans-of-grappling-podcast-recording'">Be featured on the Humans of Grappling Podcast</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://www.youtube.com/c/MikeLady'">YouTube Channel</button>
-
-<button type="button" name="button" class="btn" onclick="location.href='/podcast'">The Mike Lady Podcast</button>
-
-<button type="button" name="button" class="btn" onclick="location.href='https://www.gofundme.com/f/help-provide-for-alex-and-charlie'">GoFundMe for Spud's family</button>
