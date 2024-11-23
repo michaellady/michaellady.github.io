@@ -5,7 +5,7 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-<button type="button" name="button" class="btn" onclick="location.href='https://www.skool.com/bjjfaqs/about'">BJJ FAQs - Rank Up in 1 year or your money back! </button>
+<button type="button" name="button" class="btn" onclick="location.href='https://www.skool.com/bjjfaqs/about'">Sandbox BJJ - Check out my new IBJJF Strategy Course!</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3Ylblzv'">Intake Breathing Nasal Strip</button>
 
