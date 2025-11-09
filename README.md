@@ -2,6 +2,179 @@
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
+## Requirements
+
+This site requires:
+- **Ruby 3.4.2** or higher
+- **Jekyll 4.4.1** or higher
+- **Bundler** for dependency management
+
+## Local Development Setup
+
+### 1. Install Ruby 3.4.2
+
+Using rbenv (recommended):
+```bash
+# Install rbenv if you don't have it
+brew install rbenv ruby-build
+
+# Install Ruby 3.4.2
+rbenv install 3.4.2
+
+# Set local Ruby version
+rbenv local 3.4.2
+
+# Verify installation
+ruby -v  # Should show ruby 3.4.2
+```
+
+Using rvm:
+```bash
+# Install rvm if you don't have it
+curl -sSL https://get.rvm.io | bash -s stable
+
+# Install Ruby 3.4.2
+rvm install 3.4.2
+
+# Use Ruby 3.4.2
+rvm use 3.4.2
+
+# Verify installation
+ruby -v  # Should show ruby 3.4.2
+```
+
+### 2. Install Dependencies
+
+```bash
+# Install Bundler if you don't have it
+gem install bundler
+
+# Install Jekyll and other dependencies
+bundle install
+```
+
+### 3. Run Local Development Server
+
+```bash
+# Build and serve the site locally
+bundle exec jekyll serve
+
+# Or with live reload
+bundle exec jekyll serve --livereload
+
+# Site will be available at http://localhost:4000
+```
+
+### 4. Build for Production
+
+```bash
+# Build the site
+bundle exec jekyll build
+
+# Output will be in _site/ directory
+```
+
+## GitHub Pages Deployment
+
+This site is automatically deployed to GitHub Pages using GitHub Actions. The deployment process:
+
+1. **Trigger**: Pushes to the `master` branch automatically trigger deployment
+2. **Build**: GitHub Actions builds the site using Ruby 3.4.2 and Jekyll 4.4.1
+3. **Deploy**: The built site is deployed to GitHub Pages
+
+### Manual Deployment
+
+You can manually trigger a deployment from the GitHub Actions tab:
+
+1. Go to the "Actions" tab in your repository
+2. Select "Deploy Jekyll site to Pages" workflow
+3. Click "Run workflow"
+4. Select the branch (usually `master`)
+5. Click "Run workflow"
+
+### Deployment Configuration
+
+The deployment is configured in `.github/workflows/jekyll.yml`. Key settings:
+
+- **Ruby Version**: 3.4.2 (specified in workflow and `.ruby-version`)
+- **Jekyll Version**: 4.4.1 (specified in `Gemfile`)
+- **Base URL**: Automatically configured from GitHub Pages settings
+- **Environment**: Production
+
+### Viewing Deployment Status
+
+- Check the "Actions" tab to see deployment status
+- Failed deployments will show error messages in the workflow logs
+- Successful deployments typically complete in 2-3 minutes
+
+## Troubleshooting
+
+### Common Issues and Solutions
+
+#### Issue: "Ruby version mismatch"
+```
+Your Ruby version is X.X.X, but your Gemfile specified 3.4.2
+```
+
+**Solution**: Install and use Ruby 3.4.2 (see Local Development Setup above)
+
+#### Issue: "Could not find gem 'jekyll (~> 4.4.1)'"
+```
+Could not find gem 'jekyll (~> 4.4.1)' in locally installed gems
+```
+
+**Solution**: Run `bundle install` to install all dependencies
+
+#### Issue: "Bundle install fails"
+```
+An error occurred while installing X, and Bundler cannot continue
+```
+
+**Solution**:
+1. Make sure you're using Ruby 3.4.2: `ruby -v`
+2. Update Bundler: `gem install bundler`
+3. Try installing again: `bundle install`
+
+#### Issue: "GitHub Actions deployment fails"
+```
+Error: The process '/opt/hostedtoolcache/Ruby/3.4.2/x64/bin/bundle' failed with exit code 16
+```
+
+**Solution**:
+1. Check the workflow logs in the Actions tab
+2. Ensure `Gemfile.lock` is committed to the repository
+3. Verify Ruby version in `.ruby-version` matches workflow file
+4. Try running `bundle install` locally and committing any changes
+
+#### Issue: "Site builds locally but not on GitHub Pages"
+```
+Liquid Exception: Liquid syntax error
+```
+
+**Solution**:
+1. Check for syntax errors in your posts and pages
+2. Ensure all required front matter is present
+3. Test with production environment: `JEKYLL_ENV=production bundle exec jekyll build`
+
+#### Issue: "Jekyll Archives not working on GitHub Pages"
+```
+WARNING: Jekyll Archives is not supported by GitHub Pages
+```
+
+**Solution**: This is expected. We use GitHub Actions to build the site, which allows jekyll-archives to work. The site is pre-built and then deployed as static HTML.
+
+### Getting More Help
+
+- Check Jekyll documentation: https://jekyllrb.com/docs/
+- Review GitHub Actions logs for detailed error messages
+- Ensure all dependencies in `Gemfile` are compatible with Jekyll 4.4.1
+
+## Upgrade Notes
+
+This site was recently upgraded from Jekyll 4.3.3 to Jekyll 4.4.1 with Ruby 3.4.2. For detailed upgrade information, see [UPGRADE.md](UPGRADE.md).
+
+## Features
+
 Built with these awesome libraries:
 * [Bourbon][bourbon]
 * [Neat][neat]
@@ -16,8 +189,6 @@ Here's a [demo](http://bencentra.com/centrarium). It also works on [GitHub Pages
 Inspired by dirkfabisch's [Mediator](https://github.com/dirkfabisch/mediator) theme, which I previously used for my own blog, as well as [Type Theme](http://rohanchandra.github.io/type-theme/).
 
 Cover image by Chris M. Morris ([flickr][cover]).
-
-## Features
 
 This theme comes with a number of features, including:
 * Easily customizable fonts and colors
