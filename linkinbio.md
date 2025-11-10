@@ -18,7 +18,7 @@ function trackButtonClick(buttonName, url) {
 }
 </script>
 
-<button type="button" name="button" class="btn" onclick="trackButtonClick('Sandbox BJJ', 'http://sandboxbjj.com')">Sandbox BJJ</button>
+<button type="button" name="button" class="btn" onclick="trackButtonClick('Sandbox BJJ Mentorship', 'http://sandboxbjj.com')">Sandbox BJJ Mentorship</button>
 
 <button type="button" name="button" class="btn" onclick="trackButtonClick('Intake Breathing Nasal Strip', 'https://amzn.to/3Ylblzv')">Intake Breathing Nasal Strip</button>
 
