@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## ~~GoGoGrappling~~ (Sunset)
+## GoGoGrappling (Sunset)
 
 Changing the way grapplers get paid for their skills. Helping grappling instructors be less broke.
 
