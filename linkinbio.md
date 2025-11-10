@@ -26,6 +26,4 @@ function trackButtonClick(buttonName, url) {
 
 <button type="button" name="button" class="btn" onclick="trackButtonClick('Humans of Grappling Podcast', 'https://anchor.fm/humans-of-grappling')">Humans of Grappling Podcast</button>
 
-<button type="button" name="button" class="btn" onclick="trackButtonClick('Be featured on the Humans of Grappling Podcast', 'https://calendly.com/mikelady/humans-of-grappling-podcast-recording')">Be featured on the Humans of Grappling Podcast</button>
-
 <button type="button" name="button" class="btn" onclick="trackButtonClick('YouTube Channel', 'https://www.youtube.com/c/MikeLady')">YouTube Channel</button>
