@@ -6,7 +6,7 @@ permalink: /projects/
 
 ## [Sandbox BJJ](http://www.sandboxbjj.com/)
 
-ADCC Trials Veteran (2022 Round of 16) + 10p Vegas Coach breaks down what it takes to excel in Jiu-Jitsu as a 9-5 working professional.
+[ADCC Trials Veteran (2022 Round of 16)](https://arena.flograppling.com/event/a2fe54ab-be1f-9ebd-c24f-be927cc4fe18?page=brackets) + 10p Vegas Coach breaks down what it takes to excel in Jiu-Jitsu as a 9-5 working professional.
 
 ## GoGoGrappling (Sunset)
 
