@@ -5,7 +5,7 @@ main_nav: false
 permalink: /linkinbio/
 ---
 
-<button type="button" name="button" class="btn" onclick="location.href='https://sandboxbjj.com'">Sandbox BJJ</button>
+<button type="button" name="button" class="btn" onclick="location.href='http://sandboxbjj.com'">Sandbox BJJ</button>
 
 <button type="button" name="button" class="btn" onclick="location.href='https://amzn.to/3Ylblzv'">Intake Breathing Nasal Strip</button>
 
