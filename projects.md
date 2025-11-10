@@ -4,6 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
+## [Sandbox BJJ](http://www.sandboxbjj.com/)
+
+ADCC Trials Veteran (2022 Round of 16) + 10p Vegas Coach breaks down what it takes to excel in Jiu-Jitsu as a 9-5 working professional.
+
 ## GoGoGrappling (Sunset)
 
 Changing the way grapplers get paid for their skills. Helping grappling instructors be less broke.
